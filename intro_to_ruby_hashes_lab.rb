@@ -16,7 +16,7 @@ end
 
 def my_hash_creator(key, value)
  hash = {
-   :name => 'Grace Hopper'
+   "name" => 'Grace Hopper'
  }
  puts hash
 end
