@@ -3,9 +3,8 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {:name => Hiro, :age => 28}
-  puts my_hash
-  # return a valid hash with any key/value pair of your choice
+  hashy = {:name => Hiro, :age => 28}
+  puts hashy
 end
 
 def pioneer
