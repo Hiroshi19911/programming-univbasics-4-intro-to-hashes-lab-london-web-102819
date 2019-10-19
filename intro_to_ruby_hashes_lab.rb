@@ -19,6 +19,7 @@ def my_hash_creator(key, value)
    :name => 'Grace Hopper'
    :gender => 'female'
  }
+ puts name
 end
 
 def read_from_hash(hash, key)
