@@ -16,7 +16,7 @@ end
 
 def my_hash_creator(key, value)
  hash = {
-   "name" => 'Grace Hopper'
+   "number" => 4
  }
  puts hash
 end
