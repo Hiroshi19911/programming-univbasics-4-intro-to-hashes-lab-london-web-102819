@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  hashy = {:name => Hiro, :age => 28}
+  hashy = {:name => "Hiro", :age => 28}
   puts hashy
 end
 
