@@ -4,7 +4,6 @@ end
 
 def my_hash
   hashy = {:name => "Hiro", :age => 28}
-  puts hashy
 end
 
 def pioneer
